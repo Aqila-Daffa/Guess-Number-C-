@@ -1,0 +1,14 @@
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\bin\Debug\net8.0\Project1_Net.exe
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\bin\Debug\net8.0\Project1_Net.deps.json
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\bin\Debug\net8.0\Project1_Net.runtimeconfig.json
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\bin\Debug\net8.0\Project1_Net.dll
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\bin\Debug\net8.0\Project1_Net.pdb
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\obj\Debug\net8.0\Project1_Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\obj\Debug\net8.0\Project1_Net.AssemblyInfoInputs.cache
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\obj\Debug\net8.0\Project1_Net.AssemblyInfo.cs
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\obj\Debug\net8.0\Project1_Net.csproj.CoreCompileInputs.cache
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\obj\Debug\net8.0\Project1_Net.dll
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\obj\Debug\net8.0\refint\Project1_Net.dll
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\obj\Debug\net8.0\Project1_Net.pdb
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\obj\Debug\net8.0\Project1_Net.genruntimeconfig.cache
+C:\Users\aqila\source\repos\Project1_Net\Project1_Net\obj\Debug\net8.0\ref\Project1_Net.dll
